@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C3CB8088-39C2-EB19-45F2-52DCE0342E8E}") = "Cloud Grabber", "Assembly-CSharp-firstpass.csproj", "{A77F7670-2B84-9351-6987-2273814E7DF3}"
+EndProject
+Project("{C3CB8088-39C2-EB19-45F2-52DCE0342E8E}") = "Cloud Grabber", "Assembly-CSharp.csproj", "{6B388967-F1A9-369D-259C-0D06E239A139}"
+EndProject
+Project("{C3CB8088-39C2-EB19-45F2-52DCE0342E8E}") = "Cloud Grabber", "Assembly-CSharp-Editor-firstpass.csproj", "{FEB2CF0A-4D36-3AE1-29BC-0D709B47BCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A77F7670-2B84-9351-6987-2273814E7DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77F7670-2B84-9351-6987-2273814E7DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77F7670-2B84-9351-6987-2273814E7DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77F7670-2B84-9351-6987-2273814E7DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B388967-F1A9-369D-259C-0D06E239A139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B388967-F1A9-369D-259C-0D06E239A139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B388967-F1A9-369D-259C-0D06E239A139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B388967-F1A9-369D-259C-0D06E239A139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB2CF0A-4D36-3AE1-29BC-0D709B47BCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB2CF0A-4D36-3AE1-29BC-0D709B47BCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB2CF0A-4D36-3AE1-29BC-0D709B47BCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB2CF0A-4D36-3AE1-29BC-0D709B47BCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
